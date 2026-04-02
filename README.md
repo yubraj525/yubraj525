@@ -1,18 +1,19 @@
  ✨ About Me
+ ---
 Hi, I’m **Yubraj**, a passionate developer exploring modern web technologies, full-stack projects, and 3D interactive UIs.  
 I love building apps, integrating cutting-edge tools, and turning ideas into real-world solutions.  
 Always learning, experimenting, and growing with new tech.
 
 ---
 
- 🌱 Currently Learning
+ 🌱 Currently Learning 
 - Advanced **TypeScript & Next.js**
 - **3D Web Development** (Three.js, interactive UIs)
 - Backend optimization & **Cloud Deployment**
 
 ---
 
- 👯 Collaboration
+ #👯 Collaboration
 Looking to collaborate on **full-stack apps, automation projects, AI integrations**, and open-source contributions.
 
 ---
