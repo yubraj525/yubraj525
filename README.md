@@ -1,23 +1,23 @@
-# 💫 About Me
+ ✨ About Me
 Hi, I’m **Yubraj**, a passionate developer exploring modern web technologies, full-stack projects, and 3D interactive UIs.  
 I love building apps, integrating cutting-edge tools, and turning ideas into real-world solutions.  
 Always learning, experimenting, and growing with new tech.
 
 ---
 
-## 🌱 Currently Learning
+ 🌱 Currently Learning
 - Advanced **TypeScript & Next.js**
 - **3D Web Development** (Three.js, interactive UIs)
 - Backend optimization & **Cloud Deployment**
 
 ---
 
-## 👯 Collaboration
+ 👯 Collaboration
 Looking to collaborate on **full-stack apps, automation projects, AI integrations**, and open-source contributions.
 
 ---
 
-## 💻 Tech Stack
+ 💻 Tech Stack
 <div align="center">
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
@@ -36,7 +36,7 @@ Looking to collaborate on **full-stack apps, automation projects, AI integration
 
 ---
 
-## 🌐 Socials
+ 🌐 Socials
 <div align="center">
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ishan.khatri.549399/) 
@@ -47,7 +47,7 @@ Looking to collaborate on **full-stack apps, automation projects, AI integration
 
 ---
 
-## 📊 GitHub Stats
+ 📊 GitHub Stats
 <div align="center">
 
 <!-- Main Stats -->
@@ -62,37 +62,7 @@ Looking to collaborate on **full-stack apps, automation projects, AI integration
 </div>
 
 ---
-## 📊 Language & Skill Overview
-<div align="center">
 
-<!-- Dynamic Top Languages -->
-## 🌐 Languages I Use
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yubraj525&layout=compact&theme=dark)
-
-</div>
-
-### 💻 Personal Skill Levels
-**JavaScript**  
-![JavaScript](https://img.shields.io/badge/JavaScript-90%-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-
-**TypeScript**  
-![TypeScript](https://img.shields.io/badge/TypeScript-85%-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
-
-**Python**  
-![Python](https://img.shields.io/badge/Python-75%-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-
-**C++**  
-![C++](https://img.shields.io/badge/C++-70%-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-
-**React**  
-![React](https://img.shields.io/badge/React-80%-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-
-**Next.js**  
-![Next.js](https://img.shields.io/badge/Next.js-75%-000000?style=for-the-badge&logo=next.js&logoColor=white)
-
----
 
 ### 🌱 Emerging Tech
 ![Three.js](https://img.shields.io/badge/Three.js-Learning-black?style=for-the-badge&logo=three.js&logoColor=white)
