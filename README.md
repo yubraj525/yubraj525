@@ -66,10 +66,12 @@ Looking to collaborate on **full-stack apps, automation projects, AI integration
 <div align="center">
 
 <!-- Dynamic Top Languages -->
-### 🌐 Languages in Repos
+## 🌐 Languages I Use
+<div align="center">
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yubraj525&layout=compact&theme=dark)
 
----
+</div>
 
 ### 💻 Personal Skill Levels
 **JavaScript**  
