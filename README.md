@@ -13,7 +13,7 @@ Always learning, experimenting, and growing with new tech.
 
 ---
 
- #👯 Collaboration
+  👯 Collaboration
 Looking to collaborate on **full-stack apps, automation projects, AI integrations**, and open-source contributions.
 
 ---
@@ -50,14 +50,7 @@ Looking to collaborate on **full-stack apps, automation projects, AI integration
 </div>
 
 ---
-## 🌐 Most Used Languages
 
-<div align="center">
-
-[![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yubraj525&layout=donut&theme=dark&langs_count=10)](https://github.com/yubraj525)
-
-</div>
----
 
  📊 GitHub Stats
 <div align="center">
