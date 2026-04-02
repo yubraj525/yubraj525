@@ -54,7 +54,7 @@ Looking to collaborate on **full-stack apps, automation projects, AI integration
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yubraj525&layout=compact&theme=dark)
+[![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yubraj525&layout=donut&theme=dark&hide_border=true&langs_count=10)](https://github.com/yubraj525)
 
 </div>
 ---
@@ -95,11 +95,5 @@ Looking to collaborate on **full-stack apps, automation projects, AI integration
 - Working on **agentic AI systems and backend engineering pipelines** for intelligent automation.  
 - Emerging skills in **IoT, robotics integration, and system architecture design**.
 ---
-## 🌐 Most Used Languages
 
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yubraj525&layout=compact&theme=dark)
-
-</div>
 [![](https://visitcount.itsvg.in/api?id=yubraj525&icon=0&color=0)](https://visitcount.itsvg.in)
