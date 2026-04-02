@@ -1,4 +1,4 @@
-# 💫 About Me
+# ✨ About Me
 Hi, I’m **Yubraj**, a passionate developer exploring modern web technologies and software projects.  
 I love building full-stack applications, experimenting with 3D design, and integrating cutting-edge tools.  
 I’m always learning and connecting with emerging tech to take projects from concept to real-world use.  
