@@ -72,14 +72,20 @@ Looking to collaborate on **full-stack apps, automation projects, AI integration
 ![Three.js](https://img.shields.io/badge/Three.js-Learning-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Learning-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Intermediate-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![AI & ML](https://img.shields.io/badge/AI-Exploring-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white)
+![System Architecture](https://img.shields.io/badge/System_Architecture-Advanced-6F42C1?style=for-the-badge&logo=architect&logoColor=white)
 
 </div>
-## 🚀 Projects & Achievements
-- Built **full-stack web apps** with Next.js, React, Node.js, and Prisma.  
-- Integrated **3D models and interactive UI** for product visualization.  
-- Hands-on experience with **APIs, databases, and cloud deployment**.  
-- Emerging skills in **automation, IoT, and AI integrations**.  
 
+---
+
+## 🚀 Projects & Achievements
+- Built **full-stack web apps** with **Next.js, React, Node.js, and Prisma**, integrating scalable backend architecture.  
+- Designed and implemented **AI-assisted features** in web and automation projects.  
+- Developed **3D interactive UIs** for product visualization using **Three.js**.  
+- Hands-on experience with **APIs, databases, cloud deployment**, and microservices.  
+- Working on **agentic AI systems and backend engineering pipelines** for intelligent automation.  
+- Emerging skills in **IoT, robotics integration, and system architecture design**.
 ---
 
 [![](https://visitcount.itsvg.in/api?id=yubraj525&icon=0&color=0)](https://visitcount.itsvg.in)
