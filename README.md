@@ -62,10 +62,16 @@ Looking to collaborate on **full-stack apps, automation projects, AI integration
 </div>
 
 ---
-
-## 💻 Skill Levels
+## 📊 Language & Skill Overview
 <div align="center">
 
+<!-- Dynamic Top Languages -->
+### 🌐 Languages in Repos
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yubraj525&layout=compact&theme=dark)
+
+---
+
+### 💻 Personal Skill Levels
 **JavaScript**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-90%-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
@@ -82,21 +88,16 @@ Looking to collaborate on **full-stack apps, automation projects, AI integration
 ![React](https://img.shields.io/badge/React-80%-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 
 **Next.js**  
-![Next.js](https://img.shields.io/badge/Next.js-75%-000000?style=for-the-badge&logo=next.js&logoColor=white)  
-
-</div>
+![Next.js](https://img.shields.io/badge/Next.js-75%-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ---
 
-## 🌱 Emerging Tech
-<div align="center">
+### 🌱 Emerging Tech
 ![Three.js](https://img.shields.io/badge/Three.js-Learning-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Learning-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Intermediate-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 </div>
-
----
-
 ## 🚀 Projects & Achievements
 - Built **full-stack web apps** with Next.js, React, Node.js, and Prisma.  
 - Integrated **3D models and interactive UI** for product visualization.  
