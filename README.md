@@ -54,7 +54,7 @@ Looking to collaborate on **full-stack apps, automation projects, AI integration
 
 <div align="center">
 
-[![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yubraj525&layout=donut&theme=dark&hide_border=true&langs_count=10)](https://github.com/yubraj525)
+[![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yubraj525&layout=donut&theme=dark&langs_count=10)](https://github.com/yubraj525)
 
 </div>
 ---
